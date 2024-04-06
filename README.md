@@ -5,7 +5,7 @@
 
 ## Contents
 
-- **Matrix Multiplication Report:** For one of the assignments in the course, I conducted an in-depth analysis of matrix multiplication using CUDA programming. The detailed report outlining the methodology, code implementation, performance comparison, and insights gained from the experimentation can be found [here](link_to_report.pdf).
+- **Matrix Multiplication Report:** For one of the assignments in the course, I conducted an in-depth analysis of matrix multiplication using CUDA programming. The detailed report outlining the methodology, code implementation, performance comparison, and insights gained from the experimentation can be found [here](https://github.com/Zolboo21/Parallel-Systems-Programming/blob/main/Matrix%20Multi%20Report.pdf).
 
 ## Usage
 
