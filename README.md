@@ -14,7 +14,3 @@ Each assignment folder contains the necessary code files and instructions for ru
 ## Dependencies
 
 - CUDA Toolkit
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
